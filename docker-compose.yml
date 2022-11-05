@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  jupyter:
+    image: jupyter/all-spark-notebook:notebook-6.5.2
+    command: start.sh jupyter lab --LabApp.token='vast'
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - "./Datasets:/home/jovyan/work/datasets"
+      - "./tobi:/home/jovyan/work/tobi"
