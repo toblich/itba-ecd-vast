@@ -19,7 +19,7 @@ Dado el gran volumen de los datos, en particular de los `activity_logs` (~18GBs 
 
 # Visualizaciones resultantes
 
-En esta sección se muestran todas las visualizaciones que se fueron creando, algunas más interesantes (y consecuentemente más refinadas también) que otras exploratorias que aportaron menos información. _**Se recomienda clonar el repositorio y abrir `tobi/test.ipynb` en un editor de notebooks para poder ver los gráficos con las interacciones habilitadas en cada uno, especialmente los tooltips**. No es necesario ejecutarlos, ya que la versión subida a este repositorio incluye ya las salidas de todas las celdas, por lo que pueden verse como están._ :bangbang:
+En esta sección se muestran todas las visualizaciones que se fueron creando, algunas más interesantes (y consecuentemente más refinadas también) que otras exploratorias que aportaron menos información. _**Se recomienda clonar el repositorio y abrir `tobi/test.ipynb` en un editor de notebooks para poder ver los gráficos con las interacciones habilitadas en cada uno, especialmente los tooltips**. No es necesario ejecutarlos, ya que la versión subida a este repositorio incluye ya las salidas de todas las celdas, por lo que pueden verse como están._ :exclamation:
 
 ## Transacciones financieras
 
