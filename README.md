@@ -1,7 +1,11 @@
-Objetivo: Tomando los datos del [VAST Challenge 2022](https://vast-challenge.github.io/2022/description.html), crear visualizaciones interesantes.
+# Índice
 
 * TOC Placeholder
 {:toc}
+
+# Objetivo
+
+Tomando los datos del [VAST Challenge 2022](https://vast-challenge.github.io/2022/description.html), crear visualizaciones interesantes.
 
 # Carga de datos
 
