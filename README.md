@@ -2,6 +2,9 @@
 
 Tomando los datos del [VAST Challenge 2022](https://vast-challenge.github.io/2022/description.html), crear visualizaciones interesantes.
 
+* TOC Placeholder
+{:toc}
+
 ## Carga de datos
 
 Dado el gran volumen de los datos, en particular de los `activity_logs` (~18GBs en formato CSV), es necesario usar formatos/herramientas que soporten esos volúmenes. En este caso, se optó por usar **Apache Spark** para procesarlos, transformándolos a formato **parquet** y haciendo consultas sobre ellos. Para visualizar los datos, se usó **Altair** que permite crear gráficos flexibles via código desde la misma herramienta (**Python en Jupyter notebooks**).
